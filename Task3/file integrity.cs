@@ -1,11 +1,7 @@
 using System;
 using System.IO;
 using System.Text;
-
 using System.Security.Cryptography;
-
-using System.Globalization;
-
 using System.Collections.Generic;
 
 namespace hashcheck
